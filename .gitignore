@@ -1,7 +1,18 @@
-node_modules
-.env
-.env.*
-!.env.example
+﻿# .NET build output
+bin/
+obj/
+
+# Local SQLite Database
+*.db
+*.db-journal
+
+# Visual Studio / VS Code settings
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Operating System files
+Thumbs.db
+Desktop.ini
 .DS_Store
-coverage
-*.log

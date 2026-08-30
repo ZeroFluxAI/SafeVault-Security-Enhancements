@@ -38,3 +38,13 @@ Clone the repository and open the solution directory:
 ```bash
 git clone [https://github.com/ZeroFluxAI/SafeVault-Security-Enhancements.git](https://github.com/ZeroFluxAI/SafeVault-Security-Enhancements.git)
 cd SafeVault-Security-Enhancements
+
+👤 Author & Maintainer
+Developer: Mushahid Ali Kazmi
+
+GitHub Profile: @ZeroFluxAI
+
+Project Repository: SafeVault-Security-Enhancements
+
+📄 License
+This project is open-source software licensed under the MIT License.
